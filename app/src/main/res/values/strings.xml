@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Pokemon</string>
+    <string name="pokemon_list">Pokemon List</string>
+
+    <!-- this is for pokemon_item_list layout -->
+
+    <string name="pokemon_id_text">Pokemon ID</string>
+
+    <!-- this is for the detail of the pokemon-->
+
+    <string name="pokemon_order">Order</string>
+    <string name="pokemon_height">Height</string>
+    <string name="pokemon_weight">Weight</string>
+    <string name="pokemon_types">Types</string>
+    <string name="pokemon_base_experience">Base Experience</string>
+    <string name="pokemon_abilities">Abilities</string>
+
+    <string name="pokemon_hp">HP</string>
+    <string name="pokemon_attack">ATTACK</string>
+    <string name="pokemon_defense">DEFENSE</string>
+    <string name="pokemon_spAttack">SP.ATTACK</string>
+    <string name="pokemon_spDefense">SP.DEFENSE</string>
+    <string name="pokemon_speed">SPEED</string>
+    <string name="pokemon_base_stats">Base Stats</string>
+</resources>

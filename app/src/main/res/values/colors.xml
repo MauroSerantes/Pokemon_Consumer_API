@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <!--colors for pokemon app-->
+    <color name="background_presentation">#A4255C27</color>
+    <color name="transparent_purple">#809C20B1</color>
+    
+    <!--colors for pokemon types-->
+    <color name="bug_color">#92BC2C</color>
+    <color name="dark_color">#595761</color>
+    <color name="dragon_color">#0C69C8</color>
+    <color name="electric_color">#F2D94E</color>
+    <color name="fire_color">#FBA54C</color>
+    <color name="fairy_color">#EE90E6</color>
+    <color name="fighting_color">#D3425F</color>
+    <color name="flying_color"> #A1BBEC</color>
+    <color name="ghost_color">#5F6DBC</color>
+    <color name="grass_color"> #5FBD58</color>
+    <color name="ground_color"> #DA7C4D</color>
+    <color name="ice_color">#75D0C1</color>
+    <color name="normal_color">#A0A29F</color>
+    <color name="poison_color">#B763CF</color>
+    <color name="psychic_color">#FA8581</color>
+    <color name="rock_color">#C9BB8A</color>
+    <color name="steel_color">#5695A3</color>
+    <color name="water_color">#539DDF</color>
+
+
+    <!--colors for floating action buttons search types-->
+
+    <color name="background_action_button">#8AFCCA4B</color>
+    <color name="test">#86253270</color>
+
+    <color name="red">#FF0000</color>
+
+</resources>
